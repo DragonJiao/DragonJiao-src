@@ -1,0 +1,3 @@
+[submodule "DragonJiao-src"]
+	path = DragonJiao-src
+	url = git@github.com:DragonJiao/DragonJiao-src.git
